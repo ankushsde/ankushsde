@@ -5,7 +5,7 @@
 <p>
   <em>
     Computer engineering graduate at 
-    <a href="https://www.iust.ac.ir/">
+    <a href="https://www.shooliniuniversity.com/">
       Shoolini University</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
