@@ -14,16 +14,14 @@
   </em>
 </p>
 <p>
-  <a href="mailto:fghalandarii@gmail.com">
+  <a href="mailto:ankushs5252@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/fateme-ghalandari/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankushsrj/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/12572405/fateme-ghalandari" target="_blank">
-    <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a> 
+  
 
   
 </p>
