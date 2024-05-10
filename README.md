@@ -28,14 +28,14 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 🔭 I’ve worked as a Application Developer, crafted immersive and visually appealing user experiences.  
 🎓 I hold a degree in Computer Engineering, which has provided me with a solid foundation in software development and problem-solving.  
-🎨 My passion for art has naturally drawn me to frontend development, which combines creativity and logic to transform designs into functional code, akin to crafting a captivating painting that engages both the eyes and the mind. You solve puzzles to make things load fast, buttons to work, and sites to be easy to use on any device. It's a mix of creativity and problem-solving that keeps me excited every day as it allows me to blend creativity with technical skills to build interactive and captivating digital spaces.  
+🎨 My passion for art has naturally drawn me to Full stack development, which combines creativity and logic to transform ideas into functional code, akin to crafting a captivating painting that engages both the eyes and the mind. I solve puzzles to make things load fast, buttons to work, and sites to be easy to use on any device. It's a mix of creativity and problem-solving that keeps me excited every day as it allows me to blend creativity with technical skills to build interactive and captivating digital spaces.  
 💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.    
 🛠️ My Skill Set:  
 ```javascript
 const MySkillSet = {
   tools: ["ReactJS","React-Native", "TailwindCSS", "MaterialUI", "Redux", "NodeJS", "ExpressJS", "SQL", "MongoDB"],
-  languages: ["C++","Javascript", "HTML", "CSS", "Python"],
-  teamTools: ["Github","Jenkins", "Discord", "Trello"],
+  languages: ["C++","Javascript", "Typescript", "solidity"],
+  teamTools: ["Github", "Slack", "Jenkins", "Discord", "Trello"],
 }
 ```
 <h2 align="start">Github Status</h2>
