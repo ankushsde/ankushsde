@@ -1,39 +1,42 @@
-<h2> Hi, I'm Ankush Singh. 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<h2>Hey, I'm Ankush  
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
 </h2>
- <p>
+
+<p>
   <em>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </br>
-    Software Developer
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Software Developer • React & System Design Focused
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  
   </em>
 </p>
+
 <p>
   <a href="mailto:ankushs5252@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
   <a href="https://www.linkedin.com/in/ankushsrj/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-
-  
 </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-🔭 I’ve worked as a Full Stack Developer, crafted immersive and visually appealing user experiences.  
-🎓 I hold a degree in Computer Engineering, which has provided me with a solid foundation in software development and problem-solving.  
-🎨 My passion for art has naturally drawn me to Full stack development, which combines creativity and logic to transform ideas into functional code, akin to crafting a captivating painting that engages both the eyes and the mind. I solve puzzles to make things load fast, buttons to work, and sites to be easy to use on any device. It's a mix of creativity and problem-solving that keeps me excited every day as it allows me to blend creativity with technical skills to build interactive and captivating digital spaces.  
-💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.    
-🛠️ My Skill Set:  
-```javascript
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
+
+🔧 Building scalable apps with React, Node, and AI integrations  
+📦 Published NPM author | System design & performance enthusiast  
+🧠 Lifelong learner | Currently exploring Sui blockchain + DevTools  
+🎨 I see frontend as digital art with purpose and precision
+
+---
+
+### 🛠️ Tech Stack
+```js
 const MySkillSet = {
-  tools: ["ReactJS","React-Native", "TailwindCSS", "MaterialUI", "Redux", "NodeJS", "ExpressJS", "SQL", "MongoDB"],
-  languages: ["C++","Javascript", "Typescript", "solidity"],
-  teamTools: ["Github", "Slack", "Jenkins", "Discord", "Trello"],
+  tools: ["React", "React Native", "Node", "Express", "Tailwind", "MongoDB"],
+  languages: ["JavaScript", "TypeScript", "C++", "Solidity"],
+  devOps: ["Git", "GitHub", "Vercel", "AWS", "GCP"],
 }
+
 ```
 <h2 align="start">Github Status</h2>
 
