@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    Software Developer • React & System Design Focused
+    Software Developer •  Full Stack
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">  
   </em>
 </p>
@@ -22,10 +22,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
 
-🔧 Building scalable apps with React, Node, and AI integrations  
-📦 Published NPM author | System design & performance enthusiast  
-🧠 Lifelong learner | Currently exploring Sui blockchain + DevTools  
-🎨 I see frontend as digital art with purpose and precision
+🔧 Building scalable apps with love.
 
 ---
 
