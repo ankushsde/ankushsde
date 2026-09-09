@@ -29,9 +29,7 @@
 ### 🛠️ Tech Stack
 ```js
 const MySkillSet = {
-  tools: ["React", "React Native", "Node", "Express", "Tailwind", "MongoDB"],
-  languages: ["JavaScript", "TypeScript", "C++", "Solidity"],
-  devOps: ["Git", "GitHub", "Vercel", "AWS", "GCP"],
+   languages: ["JavaScript", "TypeScript", "C++", "Golang","Python", "Java"],
 }
 
 ```
